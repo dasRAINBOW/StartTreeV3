@@ -10,7 +10,7 @@ StartTreeV3 is a custom start page for your browser, also it's:
 - 🔒 **Private**: no database, saved via url
 - ⚡ **Lightweight**: zero dependencies
 
-→ Start [HERE]()
+→ Start [HERE](https://dasrainbow.github.io/StartTreeV3/)
 
 ## Guides
 
