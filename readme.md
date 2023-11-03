@@ -82,8 +82,3 @@ Click on the top right check button to **copy** and **go** to your new URL.
   Set as **home/new-tab page**: [Guide](https://support.apple.com/de-de/guide/safari/ibrw1020/mac)
   
 </details>
-
-
-## Featured
-
-<a href="https://www.producthunt.com/posts/StartTreeV3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-StartTreeV3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=327867&theme=dark" alt="StartTreeV3 - A $tree styled start page generator. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
